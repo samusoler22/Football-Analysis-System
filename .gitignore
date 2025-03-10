@@ -1,0 +1,13 @@
+# Large files
+*.pt
+input_videos/*.mp4
+output_videos/*.avi
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Project specific
+models/
+stubs/
